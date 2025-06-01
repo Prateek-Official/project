@@ -1,4 +1,4 @@
-import "../styles/AutocompleteSearchBar.css";
+import "../../styles/AutocompleteSearchBar.css";
 import { useState, useEffect } from "react";
 import SearchResults from "./SearchResults";
 import { Link } from "react-router";
